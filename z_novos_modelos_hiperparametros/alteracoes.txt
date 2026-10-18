@@ -1,6 +1,6 @@
 Pastas  e Alterações:
 
-Pasta 1:
+Pasta 1: (Feito e Resultados - Falta Overleaf)
     1. Colocar peso maximo de 15%
     2. Cardinalidade maxima de 20
     3. Alterar in-sample para 3 meses
