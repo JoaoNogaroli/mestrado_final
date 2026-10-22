@@ -1,7 +1,35 @@
 Pastas  e Alterações:
 
 Pasta 1: (Feito e Resultados - Falta Overleaf)
-    1. Colocar peso maximo de 15%
+    1. Colocar peso maximo de 10%
     2. Cardinalidade maxima de 20
     3. Alterar in-sample para 3 meses
     4. Alterar theta para 0.25 - 0.75
+
+Pasta 2:  (Feito e Resultados - Falta Overleaf)
+    1. Colocar peso maximo 20%
+    2. Cardinalidade maxima de 10
+    3. Alterar in-sample para 3 meses
+    4. Alterar theta para 0.25 - 0.75
+
+Pasta 3: (Feito e Resultados - Falta Overleaf)
+    1. Colocar peso maximo 15%
+    2. Cardinalidade maxima de 15
+    3. Alterar in-sample para 3 meses
+    4. Alterar theta para 0.25 - 0.75
+
+Pasta 4: (Feito e Resultados - Falta Overleaf)
+    1. Colocar peso maximo 15%
+    2. Cardinalidade maxima de ---- (sem limite)
+    3. Alterar in-sample para 3 meses
+    4. Alterar theta para 0.25 - 0.75
+
+Pasta 5: Verificar o NATU3 , nao está na base de acumulados em 2017
+    1. Colocar peso maximo 10%
+    2. Cardinalidade maxima de ---- (sem limite)
+    3. Alterar in-sample para 3 meses
+    4. Alterar theta para 0.25 - 0.75    
+
+Situação -> Criada a pasta "novos-dados-retornos", pastas Otimização e Plotagens
+Feito o script para cada um e preenchido os csv.
+Proximo passo -> Alterar o texto dos modelos para puxarem os valores 
